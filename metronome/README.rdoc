@@ -1,0 +1,5 @@
+= Metronome v1 instructions
+
+Leds on 9 and 10
+
+Pot on Analog 0
